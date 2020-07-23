@@ -1,2 +1,3 @@
 # luanorlandi.github.io
-https://luanorlandi.io
+https://luanorlandi.github.io
+
